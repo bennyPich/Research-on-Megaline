@@ -10,7 +10,7 @@ Project instructions:
   4.Check the quality of the model using the test set.
   5.Additional task: sanity check the model. This data is more complex than what you’re used to working with, so it's not an easy task. We'll take a closer look at it later.
 
-Data description:
+Data description:  
 Every observation in the dataset contains monthly behavior information about one user. The information given is as follows:
 - сalls — number of calls,
 - minutes — total call duration in minutes,
