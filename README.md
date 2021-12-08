@@ -3,7 +3,7 @@ Mobile carrier Megaline has found out that many of their subscribers use legacy 
 You have access to behavior data about subscribers who have already switched to the new plans (from the project for the Statistical Data Analysis course). For this classification task, you need to develop a model that will pick the right plan. Since you’ve already performed the data preprocessing step, you can move straight to creating the model.
 Develop a model with the highest possible accuracy. In this project, the threshold for accuracy is 0.75. Check the accuracy using the test dataset.
 
-Project instructions:
+Project instructions:  
   1.Open and look through the data file. 
   2.Split the source data into a training set, a validation set, and a test set.
   3.Investigate the quality of different models by changing hyperparameters. Briefly describe the findings of the study.
